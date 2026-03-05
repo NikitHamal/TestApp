@@ -7,23 +7,25 @@
     tools:context=".MainActivity">
     <LinearLayout
         android:id="@+id/linearlayout_ia890"
-        android:layout_width="283px"
-        android:layout_height="244px"
+        android:layout_width="301px"
+        android:layout_height="267px"
         android:orientation="vertical"
-        android:layout_marginLeft="19dp"
-        android:layout_marginTop="138dp"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="115dp"
         android:padding="16px"
         android:background="#ffffff">        <TextView
             android:id="@+id/textview_e7dcp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Login"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="28dp"
             android:textSize="24sp"
             android:layout_margin="0 0 16px 0" />
         <EditText
             android:id="@+id/edittext_jn3kw"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_width="251px"
+            android:layout_height="37px"
             android:layout_margin="0 0 8px 0" />
         <EditText
             android:id="@+id/edittext_xm3p9"
@@ -34,7 +36,7 @@
             android:id="@+id/button_f86qw"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Sign In"
+            android:text="Login"
             android:textColor="#ffffff"
             android:background="#d02216" />
 
